@@ -3,7 +3,7 @@ Feature: feature to demo tags
 
   @smoke
   Scenario: Sample1
-  Given
+  Given sample 1 is login page
   When
   And
 
